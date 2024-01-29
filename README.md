@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghab-ganguly
-- 👀 I’m interested in Learning to Technology.
+- 👀 I’m interested in learning Technologies.
 - 🌱 I’m currently learning Full Stack Software Development and AI/ML .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coderraghab@gmail.com
